@@ -1,0 +1,8 @@
+notebook
+gymnasium[mujoco]
+gymnasium-robotics[mujoco-py]
+just_d4rl
+tqdm
+torch==2.8.0 --index-url https://download.pytorch.org/whl/cu128
+numpy
+moviepy
